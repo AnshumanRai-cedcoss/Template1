@@ -1,0 +1,22 @@
+body{
+    font-size: 15px;
+    font-family:Geneva;
+}
+    section{
+    margin: 60px;
+text-align: justify;}
+    
+#leftbox{
+    float: left;
+    width: 49%;
+    text-align: justify;
+}
+#rightbox{
+    float:right;
+    width: 49%;
+    text-align: justify;
+}
+ul{
+    padding:15px;
+    margin: 0;
+}
